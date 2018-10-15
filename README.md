@@ -1,2 +1,3 @@
 # Responsive-Portfolio
-Basic Portfolio with responsiveness but media Query
+
+Deployed project: https://nicolaskennof.github.io/03-Responsive-Portfolio/
